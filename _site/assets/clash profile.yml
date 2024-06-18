@@ -12,13 +12,6 @@ proxies:
     uuid: 02d530ef-a670-4b6d-bb6e-5c3b5a678c33
     alterId: 0
     cipher: auto
-  - name: Lighthouse
-    type: vmess
-    server: 152.67.127.122
-    port: "34745"
-    uuid: 02d530ef-a670-4b6d-bb6e-5c3b5a678c33
-    alterId: 0
-    cipher: auto
 proxy-groups:
   - name: 🔰 节点选择
     type: select
