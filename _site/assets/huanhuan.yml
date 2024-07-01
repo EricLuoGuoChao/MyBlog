@@ -24,7 +24,6 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - Oracle
-      - Lighthouse
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
